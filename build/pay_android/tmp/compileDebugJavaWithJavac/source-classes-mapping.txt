@@ -1,0 +1,2 @@
+io/flutter/plugins/pay_android/BuildConfig.java
+ io.flutter.plugins.pay_android.BuildConfig
